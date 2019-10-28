@@ -7,3 +7,19 @@ It looks like someone messed up my picture! Can anyone reorganize the pixels? Th
 ### Hints:
 - I think whoever messed up my image took every column of pixels and put them side by side. 
 - I think the width of the image was 304 before they messed with it.
+
+### install
+- prerequisites
+```sh
+$ brew install pipenv
+```
+
+- dependency install
+```sh
+$ pipenv install
+```
+
+### Solution
+```sh
+$ pipenv run python ctf.py
+```
