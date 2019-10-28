@@ -1,5 +1,5 @@
 # IMAGE MAGIC
-Link: https://ctflearn.com/problems/89
+https://ctflearn.com/problems/89
 
 ### Problem
 It looks like someone messed up my picture! Can anyone reorganize the pixels? The python module PIL (Python Imaging Library) might be useful! https://mega.nz/#!OKxByZyT!vaabCJRG5D9zAUp7drTekcA5pszu67r_TbQMtxEzqGE 
